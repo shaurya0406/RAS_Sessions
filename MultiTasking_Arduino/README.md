@@ -10,4 +10,5 @@
 4. LED4 on for 1500ms and off for 2000ms
 
 Choose the IO Pins for the LEDs on your own.
+
 All the LEDs should be on when the Arduino boots up and then maintain their timings.
